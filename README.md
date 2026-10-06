@@ -105,6 +105,13 @@ beanora/
 - Checkout and reservations are demos. No payment is taken and no email is sent.
 - The behind-the-scenes film is streamed from Pexels and needs an internet connection.
 
+## Author
+
+Created by Comelanggilesgiles
+
+GitHub: @Comelanggilesgiles
+Project: github.com/Comelanggilesgiles/beanora
+
 ## License
 
-Add a `LICENSE` file (for example MIT) before sharing the project publicly.
+This project is released under the MIT License. You are free to use, copy, modify, and share it, as long as the copyright notice is kept.
